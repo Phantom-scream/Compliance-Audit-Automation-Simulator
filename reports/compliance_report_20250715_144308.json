@@ -1,0 +1,14 @@
+{
+    "violations": [
+        {
+            "user_id": 1,
+            "name": "Leanne Graham",
+            "email": "Sincere@april.biz",
+            "issues": [
+                "Username too short"
+            ]
+        }
+    ],
+    "duplicate_companies": [],
+    "generated_at": "20250715_144308"
+}
